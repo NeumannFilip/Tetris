@@ -1,0 +1,5 @@
+{
+    "name": "Presentation",
+    "references": ["Logic", "Unity.InputSystem", "Unity.TextMeshPro"],
+    "includePlatforms": []
+}
